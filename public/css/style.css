@@ -1,0 +1,9 @@
+.hero{
+    background-image: url('../images/Big.jpg');
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 500px;
+
+}
